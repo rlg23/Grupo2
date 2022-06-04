@@ -1,5 +1,5 @@
 # Grupo2
-Aquí pueden poner comentarios 
-buenas
-Buenas Buenas Buenas
-jejeje
+
+Subir lo que tengan hecho de la actividad como "TareaGrupa2_nombre" para ir comparando e ir construyendo el archivo final. 
+
+Dejen notitas con dudas, comentarios y/o peticiones dentro de este Readme para ir revisando! 
