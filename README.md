@@ -6,3 +6,5 @@ Dejen notitas con dudas, comentarios y/o peticiones dentro de este Readme para i
 
 Comentario (Jose): estuve revisando los valores negativos de los datos a trabajar y me aparecen 200, no 28 como aparece en el codigo.
 
+   RE Comentario (Jose): qué método utilizaste para revisar los valores negativos? podrías agregarlo, no lo encontré.
+
