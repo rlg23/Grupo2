@@ -6,5 +6,5 @@ Dejen notitas con dudas, comentarios y/o peticiones dentro de este Readme para i
 
 Comentario (Rubén): Échenle una miradita a lo que subí para que me den su visto bueno o malo, todo es bien recibido. Saludos
 
-!
+Comentario (Javi): Cambie el nombre de una variable y arregle la tabla, revisenlo. c:
 
