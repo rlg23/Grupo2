@@ -10,3 +10,4 @@ Comentario (Javi): Cambie el nombre de una variable y arregle la tabla, revisenl
 
 Comentario (Rubén): Se realizó un merge desde el branch de JavieraC al main, de momento el archivo más avanzado es TareaGrupo2_JC.ipynb
 
+Comentario (Fabi): Creación de branch para empezar a editar lo de la Javi y adicionar mi avance. 
